@@ -1,1 +1,1 @@
-project : a program to enhance your data storage
+project : a program to know your stoarage
